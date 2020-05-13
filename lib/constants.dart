@@ -15,5 +15,7 @@ const kNumberTextStyle = TextStyle(
   fontWeight: FontWeight.w900,
 );
 
-const kSliderActiveColor = Color(0xFFEB1555);
+const kSliderActiveColor = Colors.white;
 const kSliderInactiveColor = Color(0xFF8D8E98);
+const kSliderThumbColor = Color(0xFFEB1555);
+const kSliderOverlayColor = Color(0x29EB1555);
